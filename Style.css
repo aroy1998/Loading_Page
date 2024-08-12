@@ -1,0 +1,129 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  background-color: #1f2937;
+  padding: 2% 15% 5% 15%;
+  color: #e5e7eb;
+}
+nav {
+  display: flex;
+  height: 70px;
+  color: white;
+}
+.Links {
+  display: flex;
+  font-size: 24px;
+  justify-content: flex-end;
+}
+ul {
+  list-style-type: none;
+  width: 30%;
+  justify-content: center;
+}
+li {
+  width: 50px;
+  text-align: center;
+  width: 33.33%;
+}
+.logo {
+  width: 70%;
+  font-size: 24px;
+}
+.img {
+  background-color: gray;
+  width: 50%;
+  height: 140px;
+}
+.badge {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  padding: 0px 2%;
+}
+#wrote {
+  word-spacing: 5px;
+  padding: 5px 0px;
+}
+.wrote {
+  width: 50%;
+  padding: 0px 70px 0px 0px;
+}
+.but-2 {
+  background-color: #3882f6;
+  padding: 5px 25px;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+}
+.Information {
+  color: black;
+  text-align: center;
+  padding: 1% 25%;
+}
+.Info {
+  display: flex;
+  padding: 5% 0px;
+  justify-content: center;
+}
+.Info-Box {
+  width: 25%;
+  justify-content: center;
+}
+.Illustration {
+  width: 80%;
+  height: 100px;
+  border: 2px;
+  border-color: #3882f6;
+  border-style: solid;
+  border-radius: 5px;
+  justify-content: center;
+}
+.Info-text {
+  width: 80%;
+  font: 18px;
+  text-align: center;
+  padding: 5px 0px;
+}
+.feedback {
+  background-color: #e5e7eb;
+  padding: 4% 25%;
+}
+.feed-text {
+  color: #1f2937;
+  font: 36px;
+}
+.feed-author {
+  text-align: right;
+}
+.action {
+  display: flex;
+  padding: 5% 15%;
+  justify-content: center;
+  color: white;
+}
+.act-box {
+  margin: 5% 15%;
+  background-color: #3882f6;
+  border-radius: 15px;
+}
+.act-1 {
+  width: 100%;
+  margin-right: 5%;
+  text-align: left;
+}
+.but-1 {
+  border-style: solid;
+  border-color: white;
+  background-color: #3882f6;
+  border-radius: 5px;
+  width: 30%;
+  color: white;
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color: #1f2937;
+  padding: 2%;
+}
